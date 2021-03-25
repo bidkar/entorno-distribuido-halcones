@@ -2,8 +2,8 @@
 
 ## Laborando
 
-Lider    - Ricardo Mascareño
-Triage   - Alejandro Oros
-Maintain - J. Martin Urias
-Collab   - Cesar E. Acosta
-Read     - Bidkar A. Cárdenas
+Lider    - Ricardo Mascareño<br>
+Triage   - Alejandro Oros<br>
+Maintain - J. Martin Urias<br>
+Collab   - Cesar E. Acosta<br>
+Read     - Bidkar A. Cárdenas<br>
